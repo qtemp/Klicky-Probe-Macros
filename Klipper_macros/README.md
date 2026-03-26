@@ -57,7 +57,7 @@ Some printers, like the Voron v0 or Tiny-M don't have the probe as a standard co
 
 ## printer.cfg configuration 
 
-Download the appropriate files and upload it to your klipper Config folder.
+Download the appropriate files and upload it to your klipper Config folder (typically `/home/pi/printer_data/config/`).
 
 Check the klicky-probe.cfg, remove or comment the macros that are not required for your printer or that you do not want to implement.
 Edit klicky-variables.cfg ([there are printers specific recommendations on the printer configuration page](https://github.com/jlas1/Klicky-Probe#printers-with-detailed-instructions-and-specific-parts-by-support-order)) for klicky to operate properly.
